@@ -4,7 +4,7 @@ Novel Object Captioning: a repetition of Neural Baby Talk
 First you need to configue the environment.
 ```
 # download files
-cd ntt
+cd nbt
 unzip data
 unzip tools
 unzip glove.6B -d .vector_cache
