@@ -1,7 +1,7 @@
 # Novel-Object-Captioning
 Novel Object Captioning: a repetition of Neural Baby Talk
 
-First you need to configue the environment.
+First you need to configue the environment. Download the files [here](https://pan.baidu.com/s/1ufBi-aEtRwPX46j4MDBmAw?pwd=c22p).
 ```
 # download files
 cd nbt
