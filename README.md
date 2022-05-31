@@ -26,7 +26,7 @@ update-ca-certificates -f && export JAVA_HOME
 
 # configue the conda environment
 conda env create -f environment.yml
-conda activate ntt
+conda activate nbt
 pip install tensorflow==1.0.0 pyyaml
 pip install bert_embedding -i https://pypi.tuna.tsinghua.edu.cn/simple
 
