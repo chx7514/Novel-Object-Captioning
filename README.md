@@ -36,9 +36,9 @@ Then you can run this to train the model!
 python main.py --path_opt cfgs/noc_coco_res101.yml --batch_size 10 --cuda True --num_workers 8 --max_epoch 30 --checkpoint_path save/beam3
 ```
 several important arguments:
-- `path_opt`: you can choose another vgg model.
-- `batch_size`: a bigger batch size will be better. I use this for my machine.
-- `checkpoint_path`: where to save you record files.
+- `path_opt` : you can choose another vgg model.
+- `batch_size` : a bigger batch size will be better. I use this for my machine.
+- `checkpoint_path` : where to save you record files.
 
 Then you can evaluate the model. Remenber to change the file paths.
 ```
