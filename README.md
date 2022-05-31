@@ -29,6 +29,9 @@ conda env create -f environment.yml
 conda activate ntt
 pip install tensorflow==1.0.0 pyyaml
 pip install bert_embedding -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+# preprocess the data
+python process.py
 ```
 
 Then you can run this to train the model!
